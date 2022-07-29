@@ -35,3 +35,4 @@ evento = entrada.question("Informe o Nome do Evento... ");
 eventos.push(evento);
 
 console.log("programa Encerrado!!!")
+
